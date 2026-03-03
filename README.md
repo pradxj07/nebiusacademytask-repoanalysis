@@ -22,3 +22,6 @@ JSON with following contents
     a. Web framework: FastAPI or Flask (your choice)
 
 
+## Running the application 
+The server is programmed to run on localhost at http://127.0.0.1:5001. If the host 5001 is already used by , please follow the instructions given https://flask.palletsprojects.com/en/stable/server/#address-already-in-use to resolve the same. 
+
